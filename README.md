@@ -12,6 +12,9 @@ This app allows users to:
 - View essential weather data such as temperature, humidity, wind speed, and weather description.
 
 ---
+## 📸 Screenshots
+
+![Page](https://github.com/user-attachments/assets/07bb1a26-2494-44d2-a542-b4dc87c4e954)
 
 ## 🛠️ Tech Stack
 
